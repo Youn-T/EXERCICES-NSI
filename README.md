@@ -17,7 +17,7 @@
 ### Principales méthodes
 <details>
   <summary>Ajouter un élément à la fin</summary>
-```python
+```python  
   liste.append(elt)
 
 
