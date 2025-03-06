@@ -15,15 +15,15 @@
 ## Méthodes sur les listes
 
 ```python
-function test() {
-  console.log("notice the blank line before this function?");
-}
+
 ```
 
 ### Principales méthodes
 <details>
   <summary>Ajouter un élément à la fin</summary>
-```liste.append(elt)
+```python
+liste.append(elt)
+```
 
 
 </details>
