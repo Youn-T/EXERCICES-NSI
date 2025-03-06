@@ -17,24 +17,27 @@
 <details>
   <summary>Spoiler warning</summary>
   
-  ```javascript
+  ```python
   console.log("I'm a code block!");
   ```
 </details>
 
 ### Principales méthodes
 <details>
-  <summary>Ajouter un élément à la fin</summary>
-```python
-liste.append(elt)
+   <summary>Ajouter un élément à la fin</summary>
 
+  ```python
+  liste.append(elt)
+  ```
 </details>
 
 
 <details>
   <summary>Insérer un élément</summary>
 
+  ```python
   liste.insert(index, elt)
+  ```
 
 </details>
 
