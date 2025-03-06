@@ -14,6 +14,12 @@
 
 ## Méthodes sur les listes
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 ### Principales méthodes
 <details>
   <summary>Ajouter un élément à la fin</summary>
