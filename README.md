@@ -44,25 +44,34 @@
 <details>
   <summary>Supprimer un élément avec l'index</summary>
 
+  ```python
   del liste[index]
+  ```
 
 </details>
 
 <details>
   <summary>Supprimer la première occurence de l'élément </summary>
 
+  ```python
   liste.remove(elt)
+   ```
 
 </details>
 
 <details>
   <summary>Trier la liste</summary>
 
+  ```python
   liste.sort()
+   ```
 
   <details>
     <summary>Inverser le tri</summary>
+
+    ```python
     liste.sort(reverse=True)
+    ```
   </details>
 
 </details>
@@ -70,11 +79,16 @@
 <details>
   <summary>Création d'une liste triée à partir d'une liste</summary>
 
+  ```python
   sorted(liste)
+  ```
 
   <details>
     <summary>Inverser le tri</summary>
-      sorted(liste, reverse=True)
+
+    ```python
+    sorted(liste, reverse=True)
+    ```
   </details>
 
 </details>
@@ -82,23 +96,32 @@
 <details>
   <summary>Inverser la liste</summary>
 
+  ```python
   liste.reverse()
+   ```
 
 </details>
 
 <details>
   <summary>Compter le nombre d'occurences d'un élément</summary>
 
+  ```python
   liste.count(elt)
+   ```
 
 </details>
 
 <details>
   <summary>Supprimer/Récupérer le dernier élément de la liste</summary>
 
+  ```python
   liste.pop()  
+   ```
   <sub>note : cette méthode renvoie l'élément cela veut dire que pour  
+  
+  ```python
   a = liste.pop()  
+   ```
   a contiendra le dernier élément de la liste</sub>
 
 </details>
