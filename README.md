@@ -15,7 +15,11 @@
 ## Méthodes sur les listes
 
 ```python
+<details>
+  <summary>Ajouter un élément à la fin</summary>
+liste.append(elt)
 
+</details>
 ```
 
 ### Principales méthodes
@@ -23,8 +27,8 @@
   <summary>Ajouter un élément à la fin</summary>
 ```python
 liste.append(elt)
+
 </details>
-```
 
 
 <details>
