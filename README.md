@@ -20,8 +20,9 @@
 
 ### Principales méthodes
 <details>
-  <summary>Ajouter un élément à la fin</summary>
 ```python
+  <summary>Ajouter un élément à la fin</summary>
+
 liste.append(elt)
 ```
 
