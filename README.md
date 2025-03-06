@@ -17,8 +17,9 @@
 ### Principales méthodes
 <details>
   <summary>Ajouter un élément à la fin</summary>
-
+```python
   liste.append(elt)
+  ```
 
 </details>
 
@@ -85,9 +86,9 @@
   <summary>Supprimer/Récupérer le dernier élément de la liste</summary>
 
   liste.pop()  
-  <sub>note :cette méthode renvoie l'élément cela veut dire que pour  
+  <sub>note : cette méthode renvoie l'élément cela veut dire que pour  
   a = liste.pop()  
-  a contiendra le dernier élément de la liste enlevé</sub>
+  a contiendra le dernier élément de la liste</sub>
 
 </details>
 
