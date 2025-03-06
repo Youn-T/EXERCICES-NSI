@@ -14,14 +14,6 @@
 
 ## Méthodes sur les listes
 
-<details>
-  <summary>Spoiler warning</summary>
-  
-  ```python
-  console.log("I'm a code block!");
-  ```
-</details>
-
 ### Principales méthodes
 <details>
    <summary>Ajouter un élément à la fin</summary>
@@ -118,7 +110,7 @@
   liste.pop()  
    ```
   <sub>note : cette méthode renvoie l'élément cela veut dire que pour  
-  
+
   ```python
   a = liste.pop()  
    ```
