@@ -20,14 +20,12 @@
 
 ### Principales méthodes
 <details>
-```python
   <summary>Ajouter un élément à la fin</summary>
-
+```python
 liste.append(elt)
+</details>
 ```
 
-
-</details>
 
 <details>
   <summary>Insérer un élément</summary>
