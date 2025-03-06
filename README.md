@@ -84,8 +84,8 @@
 <details>
   <summary>Supprimer/Récupérer le dernier élément de la liste</summary>
 
-  liste.pop() 
-  <sub>cette méthode renvoie l'élément cela veut dire que pour  
+  liste.pop()  
+  <sub>note :cette méthode renvoie l'élément cela veut dire que pour  
   a = liste.pop()  
   a contiendra le dernier élément de la liste enlevé</sub>
 
