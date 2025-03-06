@@ -109,12 +109,12 @@
   ```python
   liste.pop()  
    ```
-  <sub>note : cette méthode renvoie l'élément cela veut dire que pour  
+  note : cette méthode renvoie l'élément cela veut dire que pour
 
   ```python
   a = liste.pop()  
    ```
-  a contiendra le dernier élément de la liste</sub>
+  *a* contiendra le dernier élément de la liste
 
 </details>
 
