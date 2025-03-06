@@ -19,7 +19,7 @@
   <summary>Ajouter un élément à la fin</summary>
 ```python
   liste.append(elt)
-  ```
+
 
 </details>
 
