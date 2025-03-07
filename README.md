@@ -228,14 +228,15 @@
 Le principe du tri par sélection/échange (ou tri par extraction) est d'aller chercher le plus grand élément de la liste de taille  𝑛
 pour le mettre en dernier, puis de recommencer en allant chercher le plus grand élément de la liste de taille  𝑛−1
 pour le mettre en avant dernier dans la liste de taille  𝑛, etc...
-<img src="https://capytale2.ac-paris.fr/web/sites/default/files/2023/03-07/9-00-06/selection.gif" width ="60%">
+
+![tri selection](selection.gif)
 
 ### Tri par insertion
 C'est le tri du joueur de cartes. On fait comme si les éléments à trier étaient donnés un par un, le premier élément constituant, à lui tout seul, une liste triée de longueur 1. On range ensuite le second élément pour constituer une liste triée de longueur 2, puis on range le troisième élément pour avoir une liste triée de longueur 3 et ainsi de suite...
 
 Le principe du tri par insertion est donc d'insérer à la nième itération le nième élément à la bonne place.
 
-<img src="https://capytale2.ac-paris.fr/web/sites/default/files/2023/03-07/9-00-06/insertion.gif" width ="70%">
+![tri insertion](insertion.gif)
 
 ### Tri bulle
 
