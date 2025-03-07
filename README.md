@@ -243,4 +243,4 @@ Le principe du tri à bulles (bubble sort ou sinking sort en anglais) est très 
 
 On remarque, qu’après le premier passage, l’élément le plus grand se retrouve à sa place définitive. Au deuxième passage, il sera donc inutile de le comparer avec le précédent. A chaque itération, on aura un élément de plus qui sera correctement placé à la fin de la liste. On pourra donc, à chaque fois, s’arrêter un peu plus tôt.
 
-[tri bulle](bulle.png)
+[tri bulle](bulle.gif)
