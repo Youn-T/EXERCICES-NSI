@@ -1,5 +1,99 @@
 # Exercices de NSI complétés
-## Méthodes sur les chaines de caractère
+## Méthodes sur les chaines de caractères
+
+### Principales méthodes sur les chaines de caractères
+<details>
+   <summary>Renvoyer une chaine en majuscules</summary>
+
+  ```python
+  chaine.upper()
+  ```
+</details>
+
+<details>
+   <summary>Renvoyer une chaine en minuscules</summary>
+
+  ```python
+  chaine.lower()
+  ```
+</details>
+
+<details>
+   <summary>Renvoyer une chaine avec une majuscule au début</summary>
+
+  ```python
+  chaine.capitalize()
+  ```
+</details>
+
+<details>
+   <summary>Tester si une chaine est dans une autre chaine</summary>
+
+  ```python
+  "chaine" in autre_chaine
+  ```
+</details>
+
+<details>
+   <summary>Trouver l'index d'une chaine dans une autre chaine</summary>
+
+  ```python
+  autre_chaine.find("chaine")
+  ```
+  <sub>note : si la chaine n'est pas trouvée cela renvoie -1, la méthode ne renvoie l'index de la première occurence</sub>
+</details>
+
+<details>
+   <summary>Compter le nombre d'occurences d'une chaine dans une autre chaine</summary>
+
+  ```python
+  autre_chaine.count("chaine")
+  ```
+</details>
+
+<details>
+   <summary>Caractère spécial pour le saut de ligne</summary>
+
+  ```python
+  "\n"
+  ```
+</details>
+
+<details>
+   <summary>Caractère spécial pour la tabulation</summary>
+
+  ```python
+  "\t"
+  ```
+</details>
+
+<details>
+   <summary>Formater une chaine de caractère (inculre une variable dedans)</summary>
+
+  ```python
+  chaine = f"voici le contenu de ma_var : {ma_var}"
+  ```
+</details>
+
+<details>
+   <summary>Renvoyer une liste à partir d'une chaine de caractère</summary>
+
+  ```python
+  liste = chaine.split()
+  ```
+  note: on peut spécifier un séparateur comme suit
+  ```python
+  liste = chaine.split("séparateur")
+  ```
+</details>
+
+<details>
+   <summary>Renvoyer une liste transformée en chaine de caractère</summary>
+
+  ```python
+  chaine = "séparateur".join(liste)
+  ```
+</details>
 
 ### Exercices
 [Exercice 1](Méthodes%20sur%20les%20chaines%20de%20caractère/Ex1.py)  
@@ -14,7 +108,7 @@
 
 ## Méthodes sur les listes
 
-### Principales méthodes
+### Principales méthodes sur les listes
 <details>
    <summary>Ajouter un élément à la fin</summary>
 
